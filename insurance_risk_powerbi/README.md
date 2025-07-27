@@ -1,4 +1,5 @@
 # Enterprise Risk Dashboard (Power BI)
+![Dashboard Preview](./preview.png)
 
 ## Overview
 A Power BI risk dashboard designed to monitor operational risk metrics for an insurance organization. Focuses on risk trends, control effectiveness, and compliance tracking.
