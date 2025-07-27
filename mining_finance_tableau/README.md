@@ -1,4 +1,5 @@
 # Mining Financial Dashboard (Tableau)
+![Dashboard Preview](./preview.png)
 
 ## Overview
 An executive dashboard visualizing financial KPIs across global mining operations. Built to support performance analysis and investment decision-making.
