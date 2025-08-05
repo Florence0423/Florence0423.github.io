@@ -5,12 +5,12 @@ A business analytics professional with a background in finance and a passion for
 
 ---
 
-## Skills
+## Business Analytics
 
 - **Dashboards**: Tableau, Power BI
-- **Data Analysis**: Python, SQL, Excel
+- **Data Analysis**: Python, SQL,VBA
 - **Modeling**: KPI Design, Classification, Forecasting
-- **Business Domains**: Bank, Payment, Wealth Management, Insurance, Risk, Mining
+- **Industries**: Finance, Mining
 
 ---
 
