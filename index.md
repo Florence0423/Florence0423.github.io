@@ -1,4 +1,4 @@
-# Business Analyst
+# Xiaoxia Chen
 
 Welcome! I'm Florence. 
 A business analytics professional with a background in finance and a passion for data analytics. This is my continuously evolving portfolio that showcases how I apply analytics solutions to solve real-world problems across industries mainly on finance and risk management.
