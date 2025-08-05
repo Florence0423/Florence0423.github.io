@@ -45,14 +45,9 @@ A business analytics professional with a background in finance and a passion for
 
 ---
 
-## Let’s Connect
-
-- LinkedIn: https://www.linkedin.com/in/xiaoxia-chen-canada/
-- Email: xiaoxiachen0423@gmail.com
-
-<h2>📫 Let’s Connect</h2>
+<h2> Let’s Connect</h2>
 
 <ul>
-  <li>💼 <a href="https://www.linkedin.com/in/xiaoxia-chen-canada/" target="_blank">LinkedIn</a></li>
-  <li>📧 <a href="mailto:xiaoxiachen0423@gmail.com">Email Me</a></li>
+  <li> <a href="https://www.linkedin.com/in/xiaoxia-chen-canada/" target="_blank">LinkedIn</a></li>
+  <li> <a href="mailto:xiaoxiachen0423@gmail.com">Email Me</a></li>
 </ul>
